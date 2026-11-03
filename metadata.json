@@ -1,0 +1,6 @@
+{
+  "name": "Crescent Homestay Srinagar",
+  "description": "Lakeside homestay in Srinagar with panoramic views of Dal Lake and volcanic Shankaracharya hill, rooms from ₹1,800 to ₹2,600, free Wi-Fi, authentic Kashmiri dining, and maxi cab taxi service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
